@@ -15,5 +15,5 @@
 
 -->
 
-[![Header](https://raw.githubusercontent.com/phonethihakyaw/phonethihakyaw.jpg "Header")]
+[![PhonethihaKyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=phonethihakyaw)]
 
