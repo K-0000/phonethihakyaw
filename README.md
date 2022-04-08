@@ -1,3 +1,9 @@
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thawzinmyo/count.svg" />
+</p>
+
 ### Hi I'm Phone Thiha Kyaw 👋
 
 - 🔭 I’m currently working As Cyber Security Analyst...
