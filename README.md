@@ -15,6 +15,8 @@
 - 😄 Pronouns: ...Phone zoe ly,Tharpout,Ko Phone
 - ⚡ Fun fact: Security,Survival Games,Languages,Watching Sci-fi movies,Space,Japanese Anime and some drama...
 
+[![](https://visitcount.itsvg.in/api?id=phonethihakyaw&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **phonethihakyaw/phonethihakyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
